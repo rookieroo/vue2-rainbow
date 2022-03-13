@@ -1,0 +1,5 @@
+{
+  "dialog": "./packages/dialog/index.js",
+  "bubble": "./packages/bubble/index.js",
+  "renderless": "./packages/renderless/index.js"
+}
